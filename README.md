@@ -32,34 +32,9 @@
 
 ## 安裝與執行
 
-### 環境需求
-- **Flutter SDK**: 最新穩定版
-- **Firebase 設定**:
-  - Firebase Authentication 已啟用。
-  - 將 `google-services.json` 放置於 `android/app` 資料夾。
-  - 將 `GoogleService-Info.plist` 放置於 `ios/Runner` 資料夾。
-
 ### 安裝步驟
 
-1. Clone 此專案到本地端：
-   ```bash
-   git clone <>
-   ```
-
-2. 進入專案目錄：
-   ```bash
-   cd carbon-footprint-calculator
-   ```
-
-3. 安裝相依套件：
-   ```bash
-   flutter pub get
-   ```
-
-4. 運行應用程式：
-   ```bash
-   flutter run
-   ```
+下載apk檔即可
 
 ---
 
